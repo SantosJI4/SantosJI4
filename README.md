@@ -1,11 +1,22 @@
-- 👋 Hello, I'm @SantosJI4 better known as josé
-- 👀 I'm interested in games, web and mobile development
-- 🌱 I am currently learning how to enter the IT market
-- 💞️ I try to collaborate on everything
-- 📫 How to contact me: my best email: iurysantos654@gmail.com
-- ⚡ Fun fact: I like reversing bugs
-
-<!---
-SantosJI4/SantosJI4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div class"container">
+  <h1>⚔ Olá meu nome é José Iury ⚔</h1>
+  <ul>
+    <li>Sou um desenvolvedor iniciante</li>
+    <li>Sou chegado em BackEnd</li>
+    <li>Mais também faço FrontEnd</li>
+    <li>Linguagem preferida Python e C##</li>
+  </ul>
+  <h2>ME SEGUE NAS MINHAS REDES SOCIAIS</h2>
+  <ul>
+    <li>
+      <a href="https://www.instagram.com/_santosiuryxz/">Instagram</a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/iury-santo-480276350/">Linkedin</a>
+    </li>
+    <li>
+      <label>Discord</label>
+      <a href="#">baianokc7</a>
+    </li>
+  </ul>
+</div>
