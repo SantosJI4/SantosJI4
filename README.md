@@ -1,61 +1,69 @@
-<h1 align="center">Olá, eu sou SantosJI4 👋</h1>
-
-<p align="center">
-  <img src="https://github.com/SantosJI4.png" width="120" height="120" style="border-radius: 50%" />
-</p>
-
-<p align="center">
-  Desenvolvedor focado em Back-End<br>
-  Estudando Java, Spring Boot e Docker
-</p>
-
----
-
-## 📊 Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantosJI4&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosJI4&layout=compact&theme=dark" />
-</div>
-
----
-
-## 🛠️ Skills
-
-### Front-End
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
-</div>
-
-### Back-End
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-</div>
-
-### IDEs
-<div>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000?style=flat-square&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebStorm-000?style=flat-square&logo=webstorm&logoColor=white"/>
-</div>
-
----
-
-## 📚 Estudando no momento
-- Java
-- Spring Boot
-- Docker
-
----
-
-## 🏆 Conquistas
-- GitHub Developer Program Member
-
----
+<!-- Perfil animado e estiloso para SantosJI4 -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SantosJI4&bg_color=1a1b27&color=6a3fa0&line=6a3fa0&point=403d3d&area=true&hide_border=true"/>
+  <!-- Animação SVG ou GIF personalizado (exemplo abaixo é SVG animado) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=16F7E3&background=000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Criador+de+Jogos+e+Pixel+Artista;Conteúdo+no+YouTube;Excel+Expert+em+Grande+Empresa" alt="Typing SVG" />
 </div>
+
+---
+
+## 👋 Olá, eu sou SantosJI4
+Desenvolvedor Full Stack | Criador de Jogos | Pixel Artista | Conteudista no YouTube  
+Trabalho atualmente com Excel numa grande empresa.
+
+### 🚀 Skills
+
+#### Frontend
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+</div>
+
+#### Backend
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+</div>
+
+#### Games & Conteúdo
+<div>
+  <img src="https://img.shields.io/badge/GDevelop-4B4B4B?style=flat&logo=gdevelop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pixel%20Art-EF626C?style=flat"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
+</div>
+
+#### Excel & Empresa
+<div>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Empresa-0057B8?style=flat"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantosJI4&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosJI4&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 🎓 Atualmente estudando
+- Java avançado
+- Python para automação
+- Node.js para backend
+- GDevelop para jogos
+
+---
+
+## 🌐 Links
+- [YouTube](https://youtube.com/) <!-- coloque seu canal -->
+- [LinkedIn](https://linkedin.com/) <!-- coloque seu linkedin -->
+- [Portfólio](https://seuportfolio.com/) <!-- coloque seu portfólio -->
+- [PixeArt Gallery](#) <!-- se tiver -->
