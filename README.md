@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Animação SVG ou GIF personalizado (exemplo abaixo é SVG animado) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=16F7E3&background=000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Criador+de+Jogos+e+Pixel+Artista;Conteúdo+no+YouTube;Excel+Expert+em+Grande+Empresa" alt="Typing SVG" />
+  <img src="blob:https://web.telegram.org/87bad440-0d4a-40d5-9b84-90c7b5df2e78" alt="Typing SVG" />
 </div>
 
 ---
