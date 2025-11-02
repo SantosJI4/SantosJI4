@@ -7,7 +7,7 @@
 
 ---
 
-## 👋 Olá, eu sou SantosJI4
+## 👋 Olá, eu sou Iury
 Desenvolvedor Full Stack | Criador de Jogos | Pixel Artista | Conteudista no YouTube  
 Trabalho atualmente com Excel numa grande empresa.
 
@@ -20,8 +20,6 @@ Trabalho atualmente com Excel numa grande empresa.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
 </div>
 
 #### Backend
@@ -55,11 +53,8 @@ Trabalho atualmente com Excel numa grande empresa.
 ---
 
 ## 🎓 Atualmente estudando
-- Java avançado
-- Python para automação
-- Node.js para backend
-- GDevelop para jogos
-
+- Javascript avançado
+- Python para automação & backend
 ---
 
 ## 🌐 Links
