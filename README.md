@@ -1,4 +1,4 @@
-# Olá, eu sou o Maurício (Iury) 👋
+# Olá, eu sou o José dev 👋
 
 Desenvolvedor Full Stack apaixonado por criar soluções eficientes, jogos envolventes e explorar as profundezas da cibersegurança. Atualmente, foco-me no ecossistema de Software Development, unindo a robustez do Python com a agilidade do TypeScript.
 
