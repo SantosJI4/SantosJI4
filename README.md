@@ -4,6 +4,3 @@
 
 **Backend & Security**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali-Linux-557c94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-**Game Dev & Art**
-![GDevelop](https://img.shields.io/badge/GDevelop-1A1B27?style=for-the-badge&logo=GDevelop&logoColor=white) ![Pixel Art](https://img.shields.io/badge/Pixel%20Art-ED1C24?style=for-the-badge&logo=Aseprite&logoColor=white)
